@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NonPlayerCharacterType>
+  <nonPlayerCharacter CharacterName="Rat">
+  <BaseDamage>
+    10
+  </BaseDamage>
+    <MaxHitPoints>
+      40
+    </MaxHitPoints>
+    <CurrentHitPoints>
+      40
+    </CurrentHitPoints>
+  </nonPlayerCharacter>
+  
+  <nonPlayerCharacter CharacterName ="Ogre">
+    <BaseDamage>
+      20
+    </BaseDamage>
+    <MaxHitPoints>
+      100
+    </MaxHitPoints>
+    <CurrentHitPoints>
+      100
+    </CurrentHitPoints>
+  </nonPlayerCharacter>
+  
+  <nonPlayerCharacter CharacterName ="Dragon">
+    <BaseDamage>
+      40
+    </BaseDamage>
+    <MaxHitPoints>
+      150
+    </MaxHitPoints>
+    <CurrentHitPoints>
+      150
+    </CurrentHitPoints>
+  </nonPlayerCharacter>
+</NonPlayerCharacterType>
+
